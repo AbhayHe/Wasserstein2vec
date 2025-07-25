@@ -1,0 +1,18 @@
+{
+    "best_performance": {
+        "params": {
+            "embedding_dim": 64,
+            "num_nodes": 3136,
+            "epochs": 19,
+            "batch_size": 256,
+            "best_epoch": null
+        },
+        "mrr":0.3115,
+        "hits": {
+            "hit@1": 0.2036,
+            "hit@5": 0.4316,
+            "hit@10": 0.5279
+        },
+        "timestamp": "2024-12-12 10:56:11"
+    }
+}
